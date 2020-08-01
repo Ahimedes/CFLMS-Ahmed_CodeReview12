@@ -1,0 +1,21 @@
+.jumbotron {
+    background-image: url(img/topdown_beach.jpg);
+    background-size: cover;
+    height: 40vw;
+}
+
+.jumbotext {
+    color: white;
+}
+
+#jumbo {
+    margin-top: 7vw;
+}
+
+.navbar {   
+    background: rgba(0, 0, 0, 0.5);  
+}
+
+.card {
+    margin-bottom: 2vw;
+}
